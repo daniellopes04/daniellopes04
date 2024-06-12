@@ -28,7 +28,6 @@ Hello, I'm Daniel and I'm a web developer as well as game developer on my spare 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white)
 
-
 ## Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniellopes04&theme=transparent)
